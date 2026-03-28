@@ -25,7 +25,29 @@ Regardless of whether this ban is right or not, it affects me negatively as I of
 
 This one doesn't affect me in particular but Roblox is also banned in Turkey and many people that loved the game were affected and forced to using VPNs just to play a game.
 
-# And probably more
+# Formerly blocked
+
+YouTube was banned for 67 days in 2014 and 2.5 years before that. It is not banned at the moment, but that might change anytime again.
+
+Wikipedia was banned for 3 years in 2017. It is not banned at the moment, but that might change anytime again.
+
+# Other sources
+
+Wikipedia quote (from https://en.wikipedia.org/wiki/Internet_regulation_in_Turkey):
+"Turkey's internet, in 2018 which has 42.3 million active users, holds a 'Not Free' ranking in Freedom House's index.[3] Turkish government has constantly blocked websites like Instagram, Discord, Twitter, YouTube and Wikipedia.[4][5][6] Video games such as Roblox were banned.[7] According to Twitter's transparency report, Turkey leads in social media censorship.[8]"
+
+[3] "Freedom on the Net 2016". freedomhouse.org. Archived from the original on 5 May 2017. Retrieved 1 May 2017.
+[4] "Turkey blocks instant messaging platform Discord". Reuters.
+[5] "Turkey blocks Instagram amid 'censorship' row". Al Jazeera. Retrieved 2024-10-09.
+[6] "Twitter wrong to block tweets during Turkey election - Wikipedia founder". 2023-05-16. Retrieved 2024-10-09.
+[7] "Türkiye's wave of bans: Instagram, Roblox shut down, Facebook, TikTok, X next? - Türkiye Today". Retrieved 2024-10-09.
+[8] "Turkey leads in social media censorship: new Twitter transparency report". turkeyblocks.org. Archived from the original on 10 October 2017. Retrieved 1 May 2017.
+
+# Difference of censorship and blocking
+
+Note that, even if a site is not banned, Turkey government still regularly sends legal threats that these sites have to comply with, e.g removing an user's post that is normally protected under free-speech, and if they do not comply the site would be banned for all users connecting from Turkey. For this reason, posts on X against the leading party for example could be removed; specific subreddits in Reddit might be blocked; and more restrictions.
+
+# And maybe more
 
 There's probably some stuff I forgot. Overall, the country is slowly putting more and more restrictions to the web and even the modern web standards that are supposed to close the last loopholes allowing ISPs to see what website you connect to, like the unencrypted SNI Host: header, the TLS ECH, do not save you due to the level of Deep Packet Inspection they do. This country does not give me hope. At least there's still Reddit, but it is probably going to be blocked soon too.
 
